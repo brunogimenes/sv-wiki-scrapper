@@ -1,0 +1,19 @@
+{
+  "name": "sv-wiki-scrapper",
+  "version": "0.9.0",
+  "description": "A simple Stardew Valley Wiki Scrapper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunogimenes/sv-wiki-scrapper.git"
+  },
+  "author": "brug360",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunogimenes/sv-wiki-scrapper/issues"
+  },
+  "homepage": "https://github.com/brunogimenes/sv-wiki-scrapper#readme"
+}
